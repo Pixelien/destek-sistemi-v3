@@ -1,0 +1,20 @@
+{
+  "name": "pixel-destek-v3",
+  "version": "3.0.0",
+  "description": "Pixel Code V14 Ticket botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pixelcode"
+  ],
+  "author": "Pixelien",
+  "license": "MIT",
+  "dependencies": {
+    "discord-html-transcripts": "^3.1.4",
+    "discord.js": "^14.11.0",
+    "moment": "^2.29.4",
+    "wio.db": "^4.0.22"
+  }
+}
